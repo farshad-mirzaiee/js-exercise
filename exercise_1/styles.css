@@ -1,0 +1,11 @@
+* {
+    background-color: #ffe4c4;
+}
+
+.shopping-check {
+    align-items: center;
+    align-content: center;
+    background-color: aqua;
+    border: 2px solid aliceblue;
+    border-radius: 15px;
+}
