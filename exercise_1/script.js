@@ -10,7 +10,7 @@ checkBox.addEventListener('change', () => {
 
 function updateAllowance() {
     let childsAllowance;
-    if (shoppingDone === true) {
+    if (shoppingDone === true){
         childsAllowance = 10;
     } else {
         childsAllowance = 5;
