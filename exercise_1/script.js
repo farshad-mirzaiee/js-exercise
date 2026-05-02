@@ -16,7 +16,7 @@ function updateAllowance() {
         childsAllowance = 5;
     }
 
-    para.textContent = `Child hass earned \$${childsAllowance} this week.`
+    para.textContent = `Child has earned \$${childsAllowance} this week.`
 }
 
 updateAllowance();
